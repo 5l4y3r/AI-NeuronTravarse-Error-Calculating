@@ -1,0 +1,9 @@
+D:\ggze\NeuronError\NeuronError\bin\Debug\NeuronError.exe.config
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.csprojResolveAssemblyReference.cache
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.Form1.resources
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.Properties.Resources.resources
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.csproj.GenerateResource.Cache
+D:\ggze\NeuronError\NeuronError\bin\Debug\NeuronError.exe
+D:\ggze\NeuronError\NeuronError\bin\Debug\NeuronError.pdb
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.exe
+D:\ggze\NeuronError\NeuronError\obj\Debug\NeuronError.pdb
